@@ -8,21 +8,21 @@ To run the sample add-in code under node:
 
 3. change the redirect URL in the app registration to port 3000
 
-4. change the following code in home.js to use port 3000 instead of 44300:
+4. change the following code in home.js to use port **3000** instead of 44300:
 
 ~~~
-        authenticator.endpoints.registerMicrosoftAuth(clientId, {
-            redirectUrl: 'https://localhost:3000/home.html'/* , scope: 'User.Read.All Mail.Send'*/
-        });
+   authenticator.endpoints.registerMicrosoftAuth(clientId, {
+       redirectUrl: 'https://localhost:3000/home.html'/* , scope: 'User.Read.All Mail.Send'*/
+   });
 ~~~
 
-5. open the manifest and change all ~remoteAppUrl to http://localhost:3000 like this example:
+5. open the manifest and change all ~remoteAppUrl to **http://localhost:3000** like this example:
 
-~~~
+```
   <DefaultSettings>
     <SourceLocation DefaultValue="https://localhost:3000/Home.html" />
   </DefaultSettings>
-~~~
+```
 
 6. npm install
 
