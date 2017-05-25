@@ -9,7 +9,7 @@ Make following changes -
 ///////////////////////////////////////*/
 
 
-var clientId = "{AppID}";
+var clientId = "42270aef-35a2-40a4-89a4-450dc0a7a0a6";
 var authenticator;
 var graphToken;
 
@@ -41,7 +41,7 @@ var graphToken;
 
 
         authenticator.endpoints.registerMicrosoftAuth(clientId, {
-            redirectUrl: 'https://localhost:44300/Home.html'/* , scope: 'User.Read.All Mail.Send'*/
+            redirectUrl: 'https://localhost:3000/home.html'/* , scope: 'User.Read.All Mail.Send'*/
         });
 
         // STEP 4: To authenticate against the registered endpoint, do the following
