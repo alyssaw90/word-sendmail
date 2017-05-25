@@ -1,0 +1,80 @@
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\csc.exe
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\vbc.exe
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.dll.config
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.pdb
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.csprojResolveAssemblyReference.cache
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.dll
+c:\users\mibowm\documents\visual studio 2015\Projects\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.pdb
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\csc.exe
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\vbc.exe
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.dll.config
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.pdb
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.csprojResolveAssemblyReference.cache
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.dll
+C:\Users\mibowm\Desktop\Taipei2017\Projects\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.pdb
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\csc.exe
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\vbc.exe
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\VBCSCompiler.exe
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.dll.config
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.pdb
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.csprojResolveAssemblyReference.cache
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.pdb
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\csc.exe
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\vbc.exe
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\VBCSCompiler.exe
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.dll.config
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\AdatumWordWeb.pdb
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.csprojResolveAssemblyReference.cache
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.dll
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\AdatumWordWeb\obj\Debug\AdatumWordWeb.pdb

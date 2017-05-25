@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\AdatumWordManifest.xml
+D:\Events\Taipei2017\Demo\AdatumWord\AdatumWord\bin\Debug\AdatumWord.debugapp
